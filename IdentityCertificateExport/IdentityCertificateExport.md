@@ -235,9 +235,9 @@ management console.
 
 # Document Information
 ## Revision History
-|         |
-|---------|
-|31mar2020|First Publication.
+Date     | Revision
+---------|------------------
+31mar2020| First Publication.
 
 ## Legal
 -   **VMware, Inc.** 3401 Hillview Avenue Palo Alto CA 94304 USA
