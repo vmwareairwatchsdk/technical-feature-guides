@@ -10,9 +10,6 @@ Manager (UEM) console. Identity certificate storage and export is handled by the
 Workspace ONE mobile Software Development Kit (SDK). Identity certificate export
 is available in the SDK for iOS.
 
-# Table of Contents
-{{TOC}}
-
 # Description
 The integrated authentication feature of the Workspace ONE platform supports end
 user identification by electronic certificate. Integrated authentication is
@@ -236,7 +233,7 @@ management console.
 # Document Information
 ## Revision History
 Date     | Revision
----------|------------------
+--------:|:-----------------
 31mar2020| First Publication.
 
 ## Legal
