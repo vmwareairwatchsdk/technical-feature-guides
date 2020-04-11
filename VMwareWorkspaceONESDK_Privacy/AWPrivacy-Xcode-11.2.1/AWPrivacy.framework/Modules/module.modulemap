@@ -1,0 +1,11 @@
+framework module AWPrivacy {
+  umbrella header "AWPrivacy.h"
+
+  export *
+  module * { export * }
+}
+
+module AWPrivacy.Swift {
+    header "AWPrivacy-Swift.h"
+    requires objc
+}
