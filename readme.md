@@ -16,3 +16,9 @@ Before downloading, installing or using the VMware Workspace ONE SDK you must:
     and the
     [Workspace ONE UEM Privacy Disclosure](https://www.vmware.com/help/privacy/uem-privacy-disclosure.html),
     for information on applicable privacy policies.
+
+# Download Links
+The SDK can be downloaded from the following locations.
+
+-   [VMwareWorkspaceONESDK_Privacy_20.2.zip](VMwareWorkspaceONESDK_Privacy_20.2.zip) and click Download.
+-   [https://code.vmware.com/web/sdk/Native/airwatch-ios](https://code.vmware.com/web/sdk/Native/airwatch-ios)
