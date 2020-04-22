@@ -20,5 +20,5 @@ Before downloading, installing or using the VMware Workspace ONE SDK you must:
 # Download Links
 The SDK can be downloaded from the following locations.
 
--   [VMwareWorkspaceONESDK_Privacy_20.2.zip](VMwareWorkspaceONESDK_Privacy_20.2.zip) and click Download.
+-   _VMwareWorkspaceONESDK_Privacy_20.2.zip_ (sample link text only) and click Download.
 -   [https://code.vmware.com/web/sdk/Native/airwatch-ios](https://code.vmware.com/web/sdk/Native/airwatch-ios)
